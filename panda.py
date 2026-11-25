@@ -39,7 +39,8 @@ print(x.unique())
 print(x.nunique())
 print(x.value_counts())'''
 
-'''y=pd.Series([100,50,25,15,100])
+'''
+y=pd.Series([100,50,25,15,100])
 print(y.is_monotonic_increasing)
 
 print(y.sort_values(ascending=True))
@@ -85,5 +86,4 @@ print()
 23) min()
 24) Sum()
 25)
-
 """
